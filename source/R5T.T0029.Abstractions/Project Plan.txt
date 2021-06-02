@@ -1,0 +1,4 @@
+R5T.T0029.Abstractions - Abstraction definitions for the ICommandBuilder types library.
+
+Goals
+
